@@ -15,6 +15,9 @@ import javax.swing.JLabel;
 import enums.GridSize;
 import java.io.InputStream;
 
+/*
+ * This class is used to define the board of the game.
+ */
 public class Board extends JLabel implements Observer {
 
 	private static final long serialVersionUID = 1L;

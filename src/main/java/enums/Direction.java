@@ -1,5 +1,9 @@
 package enums;
 
+/*
+ * This class is used to define the directions of the snake.
+ * 
+ */
 public class Direction {
 	public static final int NO_DIRECTION = 0;
 	public static final int UP = 4;

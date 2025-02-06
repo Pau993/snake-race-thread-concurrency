@@ -1,5 +1,8 @@
 package enums;
 
+/*
+ * This class is used to define the size of the grid.
+ */
 public class GridSize {
 
 	public static final int HEIGH_BOX = 20;
